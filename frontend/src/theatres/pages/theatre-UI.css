@@ -1,0 +1,18 @@
+.grid {
+    margin: 0 auto;
+    text-align: center;
+    width: 90%;
+}
+
+.screen {
+    margin: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.btn {
+    height: 30px;
+    background-color: #7496b4;
+    box-shadow: teal;
+    margin:  10px 20px
+}
